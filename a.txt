@@ -3,4 +3,8 @@ hi
 bye
 good night
 oooooooooo
+<<<<<<< HEAD
 aaaaaaaaaaaaaa
+=======
+this is dev
+>>>>>>> 25351fd... dev2 commit
